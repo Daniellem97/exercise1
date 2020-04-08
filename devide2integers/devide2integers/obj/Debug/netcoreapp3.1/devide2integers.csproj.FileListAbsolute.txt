@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.exe
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.deps.json
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.runtimeconfig.json
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.runtimeconfig.dev.json
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.dll
+C:\Users\danie\source\repos\devide2integers\devide2integers\bin\Debug\netcoreapp3.1\devide2integers.pdb
+C:\Users\danie\source\repos\devide2integers\devide2integers\obj\Debug\netcoreapp3.1\devide2integers.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\devide2integers\devide2integers\obj\Debug\netcoreapp3.1\devide2integers.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\devide2integers\devide2integers\obj\Debug\netcoreapp3.1\devide2integers.AssemblyInfo.cs
+C:\Users\danie\source\repos\devide2integers\devide2integers\obj\Debug\netcoreapp3.1\devide2integers.dll
+C:\Users\danie\source\repos\devide2integers\devide2integers\obj\Debug\netcoreapp3.1\devide2integers.pdb

@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.exe
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.deps.json
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.json
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.dev.json
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfo.cs
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\danie\Desktop\Exercise 1. Programming\Christmas Tree\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.pdb
